@@ -13,7 +13,7 @@
 
 #### Connect with me:
 [<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
+[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />][email]
 [<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 
 <br>
@@ -22,7 +22,7 @@
 
 [linkedin]: https://www.linkedin.com/in/pallavi-kharbanda/
 [Instagram]: https://www.instagram.com/pallavi.kharbanda
-
+[email]: pallavi.kharbanda01@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikharbanda &label=Profile%20views&color=0e75b6&style=flat" alt="pallavikharbanda" /> </p>
 
