@@ -22,7 +22,7 @@
 
 [linkedin]: https://www.linkedin.com/in/pallavi-kharbanda/
 [Instagram]: https://www.instagram.com/pallavi.kharbanda
-[ResearchGate]: https://www.researchgate.net/profile/Pallavi-Kharbanda
+[ResearchGate]: https://www.researchgate.net/profile/Pallavi-Kharbanda/research
 
 
 #### Email : pallavi.kharbanda01@gmail.com
