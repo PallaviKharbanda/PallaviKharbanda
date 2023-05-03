@@ -14,7 +14,7 @@
 #### Connect with me:
 [<img align="left" alt="PallaviKharbanda | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="PallaviKharbanda | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="PallaviKharbanda | Instagram" width="30px" src="https://img.icons8.com/?size=36&id=6vIfovl5jSWI&format=png" />][ResearchGate]
+[<img align="left" alt="PallaviKharbanda | Instagram" width="30px" src="https://img.icons8.com/?size=28&id=_H27C1YMyU_5&format=png" />][ResearchGate]
 
 <br>
 
