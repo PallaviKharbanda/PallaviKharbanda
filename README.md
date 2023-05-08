@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dr. Pallavi Kharbanda</h1>
-<h3 align="center">I'm a Data Scientist at AT&T</h3>
+
+
+
+**Data Scientist at AT&T | PhD in Applied Mathematics.**
+
+Data enthusiast passionate about Machine Learning, Deep Learning and NLP to solve complex business problems.
+
+I am an assiduous person who is goal-driven, organized, and detail-oriented, has strong analytical abilities, and has a propensity for using data to construct solution models and optimize with the use of analytical tools.
+
 
 
 ### I have technical experience and interest in:
@@ -27,7 +35,17 @@
 [ResearchGate]: https://www.researchgate.net/profile/Pallavi-Kharbanda/research
 
 
-#### Email : pallavi.kharbanda01@gmail.com
+## Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pallavi-kharbanda/)
+[<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-D14836?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=black&color=skyblue" />](https://www.researchgate.net/profile/Pallavi-Kharbanda/research)
+<!--[<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=lightteal" />](pallavi.kharbanda01@gmail.com)-->
+![Gmail : pallavi.kharbanda01@gmail.com ](https://img.shields.io/badge/Gmail-pallavi.kharbanda01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=lightteal)
+
+<br>
+<br>
+
+
 
 
 
